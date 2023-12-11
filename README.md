@@ -11,7 +11,7 @@ The MNIST dataset consists of 28x28 grayscale images of handwritten digits. It i
 
 ## Implementation
 
-The project is implemented using the Keras library with a TensorFlow backend. The following steps are performed in the Jupyter Notebook (`DL Lab 6.ipynb`):
+The project is implemented using the Keras library with a TensorFlow backend. The following steps are performed in the Jupyter Notebook:
 
 1. **Importing Packages**: Necessary libraries, including Keras, are imported.
 
